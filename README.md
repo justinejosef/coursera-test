@@ -1,3 +1,3 @@
 # coursera-test
 coursersera repo
-theme:cayman
+theme:Cayman
